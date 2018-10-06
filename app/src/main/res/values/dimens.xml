@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chatCornerRadius">10dp</dimen>
+    <dimen name="chatPadding">5dp</dimen>
+    <dimen name="chatMargin">5dp</dimen>
+
+    <dimen name="micStrokeWidth">2dp</dimen>
+    <dimen name="micSize">70dp</dimen>
+
+    <dimen name="listSpace">80dp</dimen>
+</resources>
